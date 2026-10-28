@@ -1,3 +1,5 @@
+# BIODATA DIRI
+
 nama = "I Made Satria Wintara"
 nim = 2601010034
 kelas = "SI PAGI 2"
